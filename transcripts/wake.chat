@@ -1,0 +1,13 @@
+user=Michael
+bot=edui Conference
+
+user: hello
+bot: Hello! What would you like me to call you?
+
+user: Michael
+bot: Hello, Michael. Here are some examples I can help you with:
+* Are there any talks of Bot Framework?
+* Who is giving the keynote?
+* Where can I hear the typescript talk?
+
+bot: Just type in whatever you need! If you get stuck, just type "help" and I'll do what I can.

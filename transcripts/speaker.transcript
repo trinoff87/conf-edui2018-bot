@@ -1,0 +1,163 @@
+[
+  {
+    "conversation": {
+      "id": "oLDGzqopjMqQDFnnQ1RwLSzl7t4="
+    },
+    "id": "1",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "+MOLIWfAq218cg5HwhOUKNd9i2o=",
+      "name": "Michael",
+      "role": "user"
+    },
+    "timestamp": "2021-04-14T21:33:24.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+        "name": "edUi Conference",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "oLDGzqopjMqQDFnnQ1RwLSzl7t4="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "+MOLIWfAq218cg5HwhOUKNd9i2o=",
+      "name": "Michael",
+      "role": "user"
+    },
+    "text": "Who is speaking about Bots?",
+    "timestamp": "2021-04-14T21:33:26.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "attachments": [
+      {
+        "contentType": "application/vnd.microsoft.card.hero",
+        "content": {
+          "buttons": [
+            {
+              "title": "Add to List",
+              "type": "imBack",
+              "value": "Add to List"
+            },
+            {
+              "title": "Learn More",
+              "type": "imBack",
+              "value": "Learn More"
+            }
+          ],
+          "title": "Michael Szul",
+          "subtitle": "UVA, School of Medicine",
+          "text": "Join Michael Szul in Rehearsal A for his discussion on building bots with the Microsoft Bot Framework.",
+          "images": [
+            {
+              "url": "htpps://www.eduiconf.org/wp-content/uploads/sites/7/2018/03/headshot-150x150.jpg"
+            }
+          ]
+        }
+      }
+    ],
+    "conversation": {
+      "id": "oLDGzqopjMqQDFnnQ1RwLSzl7t4="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "+MOLIWfAq218cg5HwhOUKNd9i2o=",
+      "name": "Michael",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2021-04-14T21:33:28.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "oLDGzqopjMqQDFnnQ1RwLSzl7t4="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "from": {
+      "id": "+MOLIWfAq218cg5HwhOUKNd9i2o=",
+      "name": "Michael",
+      "role": "user"
+    },
+    "text": "Who is speaking on mobile development?",
+    "timestamp": "2021-04-14T21:33:30.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "attachments": [
+      {
+        "contentType": "application/vnd.microsoft.card.hero",
+        "content": {
+          "buttons": [
+            {
+              "title": "Add to List",
+              "type": "imBack",
+              "value": "Add to List"
+            },
+            {
+              "title": "Learn More",
+              "type": "imBack",
+              "value": "Learn More"
+            }
+          ],
+          "title": "Michael Szul",
+          "subtitle": "UVA, School of Medicine",
+          "text": "Join Michael Szul in Rehearsal A for his discussion on building bots with the Microsoft Bot Framework.",
+          "images": [
+            {
+              "url": "htpps://www.eduiconf.org/wp-content/uploads/sites/7/2018/03/headshot-150x150.jpg"
+            }
+          ]
+        }
+      }
+    ],
+    "conversation": {
+      "id": "oLDGzqopjMqQDFnnQ1RwLSzl7t4="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "+MOLIWfAq218cg5HwhOUKNd9i2o=",
+      "name": "Michael",
+      "role": "user"
+    },
+    "from": {
+      "id": "T9QKnPBxk0GFZj+Jl2oQoD+se5U=",
+      "name": "edUi Conference",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2021-04-14T21:33:32.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

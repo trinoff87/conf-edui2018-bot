@@ -1,0 +1,18 @@
+user=Michael
+bot=edUi Conference
+
+user: Who is speaking about Bots?
+bot: [Herocard
+    title=Michael Szul
+    subtitle=UVA, School of Medicine
+    text=Join Michael Szul in Rehearsal A for his discussion on building bots with the Microsoft Bot Framework.
+    images=htpps://www.eduiconf.org/wp-content/uploads/sites/7/2018/03/headshot-150x150.jpg
+    buttons=Add to List|Learn More]
+
+user: Who is speaking on mobile development?
+bot: [Herocard
+    title=Michael Szul
+    subtitle=UVA, School of Medicine
+    text=Join Michael Szul in Rehearsal A for his discussion on building bots with the Microsoft Bot Framework.
+    images=htpps://www.eduiconf.org/wp-content/uploads/sites/7/2018/03/headshot-150x150.jpg
+    buttons=Add to List|Learn More]
